@@ -1,0 +1,6 @@
+usr/local/bin/pade-qt usr/bin
+share/pixmaps/pade32.xpm usr/share/pixmaps
+share/pixmaps/pade16.xpm usr/share/pixmaps
+share/pixmaps/pade128.png usr/share/pixmaps
+debian/pade-qt.desktop usr/share/applications
+debian/pade-qt.protocol usr/share/kde4/services/

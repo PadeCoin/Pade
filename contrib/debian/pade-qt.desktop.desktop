@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Pade
+Comment=Pade P2P Cryptocurrency
+Exec=pade-qt %u
+Terminal=false
+Type=Application
+Icon=pade128
+MimeType=x-scheme-handler/pade;
+Categories=Office;Finance;
+Name[en_US]=pade-qt.desktop

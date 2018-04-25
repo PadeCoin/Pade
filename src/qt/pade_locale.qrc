@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/pade_bg.qm</file>
+        <file alias="de">locale/pade_de.qm</file>
+        <file alias="en">locale/pade_en.qm</file>
+        <file alias="es">locale/pade_es.qm</file>
+        <file alias="fi">locale/pade_fi.qm</file>
+        <file alias="fr">locale/pade_fr.qm</file>
+        <file alias="it">locale/pade_it.qm</file>
+        <file alias="ja">locale/pade_ja.qm</file>
+        <file alias="pl">locale/pade_pl.qm</file>
+        <file alias="pt">locale/pade_pt.qm</file>
+        <file alias="ru">locale/pade_ru.qm</file>
+        <file alias="sk">locale/pade_sk.qm</file>
+        <file alias="sv">locale/pade_sv.qm</file>
+        <file alias="vi">locale/pade_vi.qm</file>
+        <file alias="zh_CN">locale/pade_zh_CN.qm</file>
+        <file alias="zh_TW">locale/pade_zh_TW.qm</file>
+    </qresource>
+</RCC>
